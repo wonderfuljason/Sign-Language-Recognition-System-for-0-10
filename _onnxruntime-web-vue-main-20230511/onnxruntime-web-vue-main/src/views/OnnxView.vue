@@ -426,7 +426,7 @@ const imagePredictHandler = async () => {
           <br />
         </p>
         <p class="leading-6">
-          【同济子豪兄】两天搞定图像分类、目标检测、语义分割、实例分割、关键点检测毕业设计
+          【创新实践】
         </p>
         <p class="leading-6">
           代码教程：<a
@@ -447,11 +447,8 @@ const imagePredictHandler = async () => {
         <p class="leading-6">
           <br />
         </p>
-        <p class="leading-6">
-          手机APP、微信小程序、网页开发、服务器部署，公众号 人工智能小技巧
-          回复“定制开发”，加助理微信
-        </p>
-        <p class="leading-6">代码bug江湖救急、论文创新点辅导答疑，可直接B站私信子豪兄</p>
+       
+        <p class="leading-6">手语识别系统</p>
       </article>
     </section>
   </main>

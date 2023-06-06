@@ -16,6 +16,7 @@
     "@heroicons/vue": "^2.0.18",
     "@vueuse/core": "10.1.2",
     "apexcharts": "3.40.0",
+    "axios": "^1.4.0",
     "lodash": "4.17.21",
     "ndarray": "1.0.19",
     "ndarray-ops": "1.2.2",

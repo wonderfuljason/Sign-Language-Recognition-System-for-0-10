@@ -3,7 +3,7 @@
   <header
     class="sticky top-0 z-10 w-full flex justify-between bg-white p-4 text-base font-semibold color-lightBlue shadow"
   >
-    <div>ONNX Runtime Web 部署图像分类模型</div>
+    <div>基于Yolov5的手语识别系统</div>
     <div></div>
   </header>
 </template>
